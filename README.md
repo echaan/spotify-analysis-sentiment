@@ -10,6 +10,13 @@ This project performs sentiment analysis on user reviews of the **Spotify: Music
 The goal is to classify user reviews into **positive**, **negative**, and **neutral** sentiments and compare the performance of different neural network architectures.
 
 ---
+## Table of Content
+* [Project Overview](#project-overview)
+* [Tech Stack](#tech-stack)
+* [Repository Structure](#repository-structure)
+* [Project Workflow](#project-workflow)
+* [How to Run](#how-to-run)
+---
 
 ## Tech Stack
 
